@@ -1,4 +1,8 @@
 # El işi atölyesi
 
-Web programlama dersi için yapılan projedir. Hazır websitesi şablonu üzerinden site görünümü HTML ve CSS ile yeniden şekillendirilmiştir.
-Şablon üzerine veritabanı bağlantısı PHP dili kullanılarak sağlanmıştır.
+Web programlama dersi için yapılan bir projedir.
+<br>
+Hazır şablon üzerinden sitenin görsel arayüzü HTML ve CSS ile yeniden düzenlenmiştir.
+<br>
+Şablon üzerine veritabanı bağlantısı PHP programlama dili kullanılarak sağlanmıştır.
+
